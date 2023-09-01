@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>借助Github搭建个人博客</title>
+    <link href="/2023/09/01/%E5%80%9F%E5%8A%A9Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/09/01/%E5%80%9F%E5%8A%A9Github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h1 id="借助github搭建个人博客"><a href="#借助github搭建个人博客" class="headerlink" title="借助github搭建个人博客"></a>借助github搭建个人博客</h1><h2 id="环境"><a href="#环境" class="headerlink" title="环境"></a>环境</h2><figure class="highlight crmsh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs crmsh">deepin v20.<span class="hljs-number">9</span><br><span class="hljs-keyword">node</span> <span class="hljs-title">v14</span>.<span class="hljs-number">21.3</span> <span class="hljs-comment"># 起初使用node v18，但是部署到github后index.html空白，因此使用v14</span><br><span class="hljs-comment"># node安装 参考https://blog.csdn.net/Fabulous1111/article/details/84983869</span><br>git v2.<span class="hljs-number">20.1</span> <span class="hljs-comment"># sudo apt install git</span><br></code></pre></td></tr></table></figure><h2 id="创建github仓库"><a href="#创建github仓库" class="headerlink" title="创建github仓库"></a>创建github仓库</h2><p>参考<a href="https://blog.csdn.net/yaorongke/article/details/119089190">https://blog.csdn.net/yaorongke/article/details/119089190</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test</title>
     <link href="/2023/08/31/test/"/>
     <url>/2023/08/31/test/</url>
